@@ -1,0 +1,13 @@
+
+IAM:Identity and Access Management
+#Authentication and Authorization
+Authenticate
+Authorize
+
+
+Users: A permanent Named operator(Authentication)
+Groups: Colletion of users
+Role: Not a permission but authhentication method in AWS. Temp set of credentials
+Policy Docs:(Authorization and explicit deny eg. deny ec2 instance stop/terminate action against resource production).
+It has all the permissions (json file). Resources level permissions
+
